@@ -3,7 +3,7 @@
   "versionName": "0.5.1-beta",
   "apkUrl": "https://ghproxy.net/https://raw.githubusercontent.com/NianGu666/anime-glass/main/ANIME-GLASS-v0.5.1-beta.apk",
   "changelog": "· 版本号统一为 0.5.1-beta\n· 启用正式 ANIME GLASS 应用图标\n· 壁纸标题不再显示横屏 / 竖屏前缀\n· 壁纸卡片不再显示图源名称\n· 移除多余的图源筛选",
-  "fileSize": 4214638,
-  "sha256": "fa92ba26d0b055aedd01b025949cd3f96e78fc6fa9aa118d12dcfd65785ffce6",
+  "fileSize": 4308942,
+  "sha256": "15b7a5aacded95bdf742358ab99a6a2b085f0c75a96a434b866df6355d380da5",
   "forceUpdate": false
 }
