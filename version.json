@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0-beta",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/NianGu666/anime-glass@main/ANIME-GLASS-v0.6.0-beta.apk",
-  "changelog": "· 新增自动更新功能\n· 优化首屏加载至 265ms\n· 修复已知问题",
-  "fileSize": 3871438,
-  "sha256": "6690a634d9d80dc148bcd0631c7c39899857c8449cedc475cbae26feab82fdca",
+  "versionCode": 8,
+  "versionName": "2.0.0-beta",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/NianGu666/anime-glass@main/ANIME-GLASS-v2.0.0-beta.apk",
+  "changelog": "· 全局视觉重制：新配色与深色玻璃体系\n· 我的页面支持头像/昵称/签名/用户ID\n· 修复底部导航栏遮挡内容\n· 精选与信息流分辨率改为真实探测值\n· 冷启动约 160–260ms",
+  "fileSize": 3887822,
+  "sha256": "538a2d072269ea44de9b33213b1ca00a46b2264754fb91cf3d1de9941c3c59c1",
   "forceUpdate": false
 }
