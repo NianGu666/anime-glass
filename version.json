@@ -4,6 +4,6 @@
   "apkUrl": "https://ghproxy.net/https://raw.githubusercontent.com/NianGu666/anime-glass/main/ANIME-GLASS-v2.0.0-beta.apk",
   "changelog": "· 全局视觉重制：新配色 + 深色玻璃体系\n· 我的页面：头像 / 昵称 / 签名 / 用户ID / 真实浏览数\n· 修复底部导航栏遮挡最后一排内容\n· 精选与信息流分辨率改为真实探测值\n· 分类卡片统一圆角、间距与箭头\n· 收藏图源筛选按实际收藏动态生成\n· 冷启动 160–310ms",
   "fileSize": 3887850,
-  "sha256": "85e8f739276ba001023d9b72381c0ae22b682db565b1125c45f1a22221522a47",
+  "sha256": "9051478919bc33d028aef2015060dccc2b49c56d46ce5489be0979df9754f60d",
   "forceUpdate": false
 }
