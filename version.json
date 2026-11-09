@@ -2,8 +2,8 @@
   "versionCode": 9,
   "versionName": "0.5.1-beta",
   "apkUrl": "https://ghproxy.net/https://raw.githubusercontent.com/NianGu666/anime-glass/main/ANIME-GLASS-v0.5.1-beta.apk",
-  "changelog": "· 分类页 10 个封面按主题重新匹配，不再随机取图\n· 修复详情页原图加载失败与分辨率错误\n· 桌面图标与关于页品牌标志\n· 版本号保持 0.5.1-beta",
-  "fileSize": 5647056,
-  "sha256": "a77e5b16640bbc505c7a1bd9dbe37789b64fe37dfb9656068ca898125335aa88",
+  "changelog": "· 分类页内容按主题人工核对，10 个分类各自独立目录\n· 分类封面与详情页实际壁纸保持一致\n· 修复详情页原图加载与分辨率显示\n· 版本号保持 0.5.1-beta",
+  "fileSize": 5649430,
+  "sha256": "cb9eb0f516fec435c00ae804b7ef9f26bb8975b9c6b33ec1907c77e47a90ae23",
   "forceUpdate": false
 }
