@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "0.5.1-beta",
-  "apkUrl": "https://ghproxy.net/https://raw.githubusercontent.com/NianGu666/anime-glass/main/ANIME-GLASS-v0.5.1-beta.apk",
-  "changelog": "· 分类页内容按主题人工核对，10 个分类各自独立目录\n· 分类封面与详情页实际壁纸保持一致\n· 修复详情页原图加载与分辨率显示\n· 版本号保持 0.5.1-beta",
-  "fileSize": 5649430,
-  "sha256": "cb9eb0f516fec435c00ae804b7ef9f26bb8975b9c6b33ec1907c77e47a90ae23",
+  "versionCode": 11,
+  "versionName": "0.5.3-beta",
+  "apkUrl": "https://ghproxy.net/https://raw.githubusercontent.com/NianGu666/anime-glass/main/ANIME-GLASS-v0.5.3-beta.apk",
+  "changelog": "· 修复分类页刷新卡死（超时/防重入/失败保留列表）\n· 分类数据源收敛为仅 Yrrlyb API，清理其他图源记录\n· 按真实像素判定分类，判不准的不显示\n· 每日更新只写真实新增",
+  "fileSize": 5663440,
+  "sha256": "b4294606792cf6e3f0677fba81771ba942baf982ee1b8d6e920ba910de5559ed",
   "forceUpdate": false
 }
