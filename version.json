@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "0.5.5-beta",
-  "apkUrl": "https://ghproxy.net/https://raw.githubusercontent.com/NianGu666/anime-glass/main/ANIME-GLASS-v0.5.5-beta.apk",
-  "changelog": "· 统一分类筛选规则，修复分类串数据\n· 删除重复的分类筛选字段\n· 切换分类时清理旧缓存\n· 不支持的分类明确显示暂无可用图片\n· 修复启动崩溃（view_count 类型）",
-  "fileSize": 5663436,
-  "sha256": "23853ab6871890269edb89c0556060b0178ae5306e6d8b67b299f9353557cfb5",
+  "versionCode": 19,
+  "versionName": "0.5.7-beta",
+  "apkUrl": "https://ghproxy.net/https://raw.githubusercontent.com/NianGu666/anime-glass/main/ANIME-GLASS-v0.5.7-beta.apk",
+  "changelog": "· 修复头像库点头像进不了详情、无法保存\n· 下载按域名自动匹配 Referer，taizen 图不再被防盗链拦截\n· 保存的文件扩展名跟随服务器实际返回的类型\n· 头像复用详情页的收藏 / 下载 / 设为壁纸",
+  "fileSize": 5679824,
+  "sha256": "3ca5c1af408f5c0b17db2359d0ff50e01c706d660b9d6a50c5f755a422ee4114",
   "forceUpdate": false
 }
